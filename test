@@ -1,1 +1,37 @@
-
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Feature": "start of parkrun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.13310050964355,
+          51.125896173050805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Feature": "Good for BBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.22253608703613,
+          51.09810523832964
+        ]
+      }
+    }
+  ]
+}
